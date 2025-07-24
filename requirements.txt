@@ -1,0 +1,7 @@
+pandas
+numpy
+googlemaps
+gspread
+gspread-dataframe
+google-auth
+google-cloud-secret-manager
