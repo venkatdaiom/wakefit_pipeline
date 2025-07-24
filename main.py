@@ -116,7 +116,7 @@ def run_gmb_pipeline(request):
         kpi_results = []
         
         segments_config = {
-            'All Duroflex Stores': df,
+            'All Wakefit Stores': df,
             'COCO Stores': df[df['Experience Center'] == 1],
             'Non COCO Stores': df[df['Experience Center'] == 0],
             'North': df[df['Region'] == 'North'],
